@@ -41,10 +41,10 @@
     <button class="selecionados_fechar" @click="ativoSelecionados = false">X</button>
     <h2>Filme</h2>
     <p>{{filmeSelecionado.nome}}</p>
-    <h2>Bebida</h2>
-    <p>{{bebidaSelecionado.nome}}</p>
     <h2>Comida</h2>
     <p>{{comidaSelecionado.nome}}</p>
+    <h2>Bebida</h2>
+    <p>{{bebidaSelecionado.nome}}</p>
   </div>
 </div>
 </section>
