@@ -1,0 +1,981 @@
+{
+  "filmes": [
+    {
+      "id": "1",
+      "nome": "Corra! (2017), por Jordan Peele"
+    },
+    {
+      "id": "2",
+      "nome": "Brilho Eterno de uma Mente sem Lembranças (2004), por Charlie Kaufman, Michel Gondry e Pierre Bismuth"
+    },
+    {
+      "id": "3",
+      "nome": "A Rede Social (2010), por Aaron Sorkin"
+    },
+    {
+      "id": "4",
+      "nome": "Parasita (2019), por Bong Joon Ho e Han Jin Won"
+    },
+    {
+      "id": "5",
+      "nome": "Onde os Fracos Não Têm Vez (2007), por Joel Coen e Ethan Coen"
+    },
+    {
+      "id": "6",
+      "nome": "Moonlight: Sob a Luz do Luar (2016), por Barry Jenkins e Tarell Alvin McCraney"
+    },
+    {
+      "id": "7",
+      "nome": "Sangue Negro (2007), por Paul Thomas Anderson"
+    },
+    {
+      "id": "8",
+      "nome": "Bastardos Inglórios (2009), por Quentin Tarantino"
+    },
+    {
+      "id": "9",
+      "nome": "Quase Famosos (2000), por Cameron Crowe"
+    },
+    {
+      "id": "10",
+      "nome": "Memento (2000), por Christopher Nolan"
+    },
+    {
+      "id": "11",
+      "nome": "Adaptação. (2002), por Charlie Kaufman e Donald Kaufman"
+    },
+    {
+      "id": "12",
+      "nome": "Missão Madrinha de Casamento (2011), por Annie Mumulo & Kristen Wiig"
+    },
+    {
+      "id": "13",
+      "nome": "O Segredo de Brokeback Mountain (2005), por Larry McMurtry e Diana Ossana"
+    },
+    {
+      "id": "14",
+      "nome": "Os Excêntricos Tenenbaums (2001), por Wes Anderson e Owen Wilson"
+    },
+    {
+      "id": "15",
+      "nome": "Sideways - Entre Umas e Outras (2004), por Alexander Payne e Jim Taylor"
+    },
+    {
+      "id": "16",
+      "nome": "Lady Bird (2017), por Greta Gerwig"
+    },
+    {
+      "id": "17",
+      "nome": "Ela (2013), por Spike Jonze"
+    },
+    {
+      "id": "18",
+      "nome": "Filhos da Esperança (2006), por Alfonso Cuarón, Timothy J. Sexton, David Arata, Mark Fergus e Hawk Ostby"
+    },
+    {
+      "id": "19",
+      "nome": "Encontros e Desencontros (2003), por Sofia Coppola"
+    },
+    {
+      "id": "20",
+      "nome": "Conduta de Risco (2007), por Tony Gilroy"
+    },
+    {
+      "id": "21",
+      "nome": "Pequena Miss Sunshine (2006), por Michael Arndt"
+    },
+    {
+      "id": "22",
+      "nome": "Era uma Vez em... Hollywood (2019), por Quentin Tarantino"
+    },
+    {
+      "id": "23",
+      "nome": "Bela Vingança (2020), por Emerald Fennell"
+    },
+    {
+      "id": "24",
+      "nome": "Juno (2007), por Diablo Cody"
+    },
+    {
+      "id": "25",
+      "nome": "O Grande Hotel Budapeste (2014), por Wes Anderson e Hugo Guinness"
+    },
+    {
+      "id": "26",
+      "nome": "Batman: O Cavaleiro das Trevas (2008), por Christopher Nolan e David S. Goyer"
+    },
+    {
+      "id": "27",
+      "nome": "A Chegada (2016), por Eric Heisserer"
+    },
+    {
+      "id": "28",
+      "nome": "Jojo Rabbit (2019), por Taika Waititi"
+    },
+    {
+      "id": "29",
+      "nome": "Divertidamente (2015), por Meg LeFauve, Pete Docter e Ronnie Del Carmen"
+    },
+    {
+      "id": "30",
+      "nome": "Os Infiltrados (2006), por William Monahan"
+    },
+    {
+      "id": "31",
+      "nome": "Spotlight: Segredos Revelados (2015), por Josh Singer e Tom McCarthy"
+    },
+    {
+      "id": "32",
+      "nome": "Whiplash: Em Busca da Perfeição (2014), por Damien Chazelle"
+    },
+    {
+      "id": "33",
+      "nome": "Up - Altas Aventuras (2009), por Pete Docter, Bob Peterson e Tom McCarthy"
+    },
+    {
+      "id": "34",
+      "nome": "Meninas Malvadas (2004), por Tina Fey"
+    },
+    {
+      "id": "35",
+      "nome": "WALL-E (2008), por Andrew Stanton, Jim Reardon e Pete Docter"
+    },
+    {
+      "id": "36",
+      "nome": "O Labirinto do Fauno (2006), por Guillermo del Toro"
+    },
+    {
+      "id": "37",
+      "nome": "Inception (2010), por Christopher Nolan"
+    },
+    {
+      "id": "38",
+      "nome": "Quem Quer Ser Um Milionário? (2008), por Simon Beaufoy"
+    },
+    {
+      "id": "39",
+      "nome": "Antes do Pôr do Sol (2004), por Richard Linklater, Julie Delpy e Ethan Hawke"
+    },
+    {
+      "id": "40",
+      "nome": "In Bruges (2008), por Martin McDonagh"
+    },
+    {
+      "id": "41",
+      "nome": "Cidade dos Sonhos (2001), por David Lynch"
+    },
+    {
+      "id": "42",
+      "nome": "Um Homem Sério (2009), por Joel Coen e Ethan Coen"
+    },
+    {
+      "id": "43",
+      "nome": "O Fabuloso Destino de Amélie Poulain (2001), por Guillame Laurant e Jean-Pierre Jeunet"
+    },
+    {
+      "id": "44",
+      "nome": "Toy Story 3 (2010), por Michael Arndt, John Lasseter, Andrew Stanton e Lee Unkrich"
+    },
+    {
+      "id": "45",
+      "nome": "A Favorita (2018), por Deborah Davis e Tony McNamara"
+    },
+    {
+      "id": "46",
+      "nome": "Zodíaco (2007), por James Vanderbilt"
+    },
+    {
+      "id": "47",
+      "nome": "O Gladiador (2000), por David Franzoni, John Logan e William Nicholson"
+    },
+    {
+      "id": "48",
+      "nome": "Os Incríveis (2004), por Brad Bird"
+    },
+    {
+      "id": "49",
+      "nome": "Entre Facas e Segredos (2019), por Rian Johnson"
+    },
+    {
+      "id": "50",
+      "nome": "Ex Machina (2015), por Alex Garland"
+    },
+    {
+      "id": "51",
+      "nome": "Birdman ou (A Inesperada Virtude da Ignorância) (2014), por Alejandro G. Iñárritu, Nicolás Giacobone, Alexander Dinelaris Jr. e Armando Bó"
+    },
+    {
+      "id": "52",
+      "nome": "A Vida dos Outros (2006), por Florian Henckel von Donnerschmarck"
+    },
+    {
+      "id": "53",
+      "nome": "O Abutre (2014), por Dan Gilroy"
+    },
+    {
+      "id": "54",
+      "nome": "12 Anos de Escravidão (2013), por John Ridley"
+    },
+    {
+      "id": "55",
+      "nome": "A Grande Aposta (2015), por Charles Randolph e Adam McKay"
+    },
+    {
+      "id": "56",
+      "nome": "Moneyball (2011), por Steven Zaillian e Aaron Sorkin"
+    },
+    {
+      "id": "57",
+      "nome": "Pantera Negra (2018), por Ryan Coogler e Joe Robert Cole"
+    },
+    {
+      "id": "58",
+      "nome": "Conte Comigo (2000), por Kenneth Lonergan"
+    },
+    {
+      "id": "59",
+      "nome": "Boyhood (2014), por Richard Linklater"
+    },
+    {
+      "id": "60",
+      "nome": "Procurando Nemo (2003), por Andrew Stanton, Bob Peterson e David Reynolds"
+    },
+    {
+      "id": "61",
+      "nome": "Guerra ao Terror (2009), por Mark Boal"
+    },
+    {
+      "id": "62",
+      "nome": "Roma (2018), por Alfonso Cuarón"
+    },
+    {
+      "id": "63",
+      "nome": "O Lobo de Wall Street (2013), por Terence Winter"
+    },
+    {
+      "id": "64",
+      "nome": "A Qualquer Custo (2016), por Taylor Sheridan"
+    },
+    {
+      "id": "65",
+
+      "nome": "Manchester À Beira-Mar (2016), por Kenneth Lonergan"
+    },
+    {
+      "id": "66",
+      "nome": "A Separação (2011), por Asghar Farhadi"
+    },
+    {
+      "id": "67",
+      "nome": "A Viagem de Chihiro (2001), por Hayao Miyazaki"
+    },
+    {
+      "id": "68",
+      "nome": "Mad Max: Estrada da Fúria (2015), por George Miller, Brendan McCarthy e Nico Lathouris"
+    },
+    {
+      "id": "69",
+      "nome": "Fora de Série (2019), por Emily Halpern, Sarah Haskins, Susanna Fogel e Katie Silberman"
+    },
+    {
+      "id": "70",
+      "nome": "Cidade de Deus (2002), por Bráulio Montovani"
+    },
+    {
+      "id": "71",
+      "nome": "Homem-Aranha no Aranhaverso (2018), por Phil Lord e Rodney Rothman"
+    },
+    {
+      "id": "72",
+
+      "nome": "Inside Llewyn Davis - Balada de Um Homem Comum (2013), por Joel Coen e Ethan Coen"
+    },
+    {
+      "id": "73",
+      "nome": "O Discurso do Rei (2010), por David Seidler"
+    },
+    {
+      "id": "74",
+      "nome": "Django Livre (2012), por Quentin Tarantino"
+    },
+    {
+      "id": "75",
+      "nome": "Onze Homens e um Segredo (2001), por Ted Griffin"
+    },
+    {
+      "id": "76",
+      "nome": "O Senhor dos Anéis: A Sociedade do Anel (2001), por Fran Walsh, Philippa Boyens e Peter Jackson"
+    },
+    {
+      "id": "77",
+      "nome": "Todo Mundo Quase Morto (2004), por Simon Pegg e Edgar Wright"
+    },
+    {
+      "id": "78",
+      "nome": "Erin Brockovich (2000), por Susannah Grant"
+    },
+    {
+      "id": "79",
+      "nome": "Me Chame Pelo Seu Nome (2017), por James Ivory"
+    },
+    {
+      "id": "80",
+      "nome": "Três Anúncios Para Um Crime (2017), por Martin McDonagh"
+    },
+    {
+      "id": "81",
+      "nome": "O Lagosta (2015), por Yorgos Lanthimos e Efthymis Filippou"
+    },
+    {
+      "id": "82",
+      "nome": "O Grande Truque (2006), por Jonathan Nolan e Christopher Nolan"
+    },
+    {
+      "id": "83",
+      "nome": "Meia Noite em Paris (2011), por Woody Allen"
+    },
+    {
+      "id": "84",
+      "nome": "O Mestre (2012), por Paul Thomas Anderson"
+    },
+    {
+      "id": "85",
+      "nome": "Argo (2012), por Chris Terrio"
+    },
+    {
+      "id": "86",
+      "nome": "E Sua Mãe Também (2001), por Carlos Cuarón e Alfonso Cuarón"
+    },
+    {
+      "id": "87",
+      "nome": "Trama Fantasma (2017), por Paul Thomas Anderson"
+    },
+    {
+      "id": "88",
+      "nome": "Superbad (2007), por Seth Rogen e Evan Goldberg"
+    },
+    {
+      "id": "89",
+      "nome": "Adoráveis Mulheres (2019), por Greta Gerwig"
+    },
+    {
+      "id": "90",
+      "nome": "Infiltrado na Klan (2018), por Charlie Wachtel, David Rabinowitz, Kevin Willmott e Spike Lee"
+    },
+    {
+      "id": "91",
+      "nome": "A Despedida (2019), por Lulu Wang"
+    },
+    {
+      "id": "92",
+      "nome": "La La Land (2016), por Damien Chazelle"
+    },
+    {
+      "id": "93",
+      "nome": "Borat - O Segundo Melhor Repórter do Glorioso País Cazaquistão Viaja à América (2006), por Sacha Baron Cohen, Anthony Hines, Peter Baynham, Dan Mazer e Todd Phillips"
+    },
+    {
+      "id": "94",
+
+      "nome": "O Virgem de 40 Anos (2005), por Judd Apatow & Steve Carell"
+    },
+    {
+      "id": "95",
+      "nome": "Ratatouille (2007), por Brad Bird, Jan Pinkava, Jim Capobianco, Brad Bird, Emily Cook, Kathy Greenberg e Bob Peterson"
+    },
+    {
+      "id": "96",
+      "nome": "A Garota Ideal (2007), por Nancy Oliver"
+    },
+    {
+      "id": "97",
+      "nome": "Nomadland (2020), por Chloe Zhao"
+    },
+    {
+      "id": "98",
+      "nome": "O Inverno da Alma (2010), por Debra Granik e Anne Rosellini"
+    },
+    {
+      "id": "99",
+      "nome": "E Aí, Meu Irmão, Cadê Você? (2000), por Ethan Coen e Joel Coen"
+    },
+    {
+      "id": "100",
+      "nome": "Legalmente Loira (2001), por Karen McCullah Lutz & Kirsten Smith"
+    },
+    {
+      "id": "101",
+      "nome": "O Lado Bom da Vida (2012), por David O. Russell"
+    }
+  ],
+  "generos": [
+    {
+      "id": "aventura",
+      "nome": "Aventura"
+    },
+    {
+      "id": "comedia",
+      "nome": "Comédia"
+    },
+    {
+      "id": "acao",
+      "nome": "Ação"
+    },
+    {
+      "id": "ficcao",
+      "nome": "Ficção"
+    },
+    {
+      "id": "terror",
+      "nome": "Terror"
+    },
+    {
+      "id": "guerra",
+      "nome": "Guerra"
+    }
+  ],
+  "filmesPorGenero": [
+    { "id": "1", "nome": "Nós", "genero": "aventura" },
+    { "id": "2", "nome": "Hereditário", "genero": "aventura" },
+    { "id": "3", "nome": "A Bruxa", "genero": "aventura" },
+    { "id": "4", "nome": "Os Novos Mutantes", "genero": "aventura" },
+    { "id": "5", "nome": "It - A Coisa", "genero": "aventura" },
+    { "id": "6", "nome": "Corra!", "genero": "aventura" },
+    { "id": "7", "nome": "Mãe!", "genero": "aventura" },
+    { "id": "8", "nome": "O Homem nas Trevas", "genero": "aventura" },
+    { "id": "9", "nome": "Doutor Sono", "genero": "aventura" },
+    { "id": "10", "nome": "Casamento Sangrento", "genero": "aventura" },
+    { "id": "11", "nome": "Suspiria", "genero": "aventura" },
+    { "id": "12", "nome": "Sobrenatural", "genero": "aventura" },
+    { "id": "13", "nome": "A Visita", "genero": "aventura" },
+    { "id": "14", "nome": "O Homem Invisível", "genero": "aventura" },
+    { "id": "15", "nome": "Fuja", "genero": "aventura" },
+    { "id": "16", "nome": "A Entidade", "genero": "aventura" },
+    { "id": "17", "nome": "O Mensageiro do Último Dia", "genero": "aventura" },
+    { "id": "18", "nome": "Uma Noite de Crime", "genero": "aventura" },
+    { "id": "19", "nome": "Escape Room", "genero": "aventura" },
+    { "id": "20", "nome": "Garota Infernal", "genero": "aventura" },
+    {
+      "id": "21",
+      "nome": "Histórias Assustadoras para Contar no Escuro",
+      "genero": "aventura"
+    },
+    { "id": "22", "nome": "Maligno", "genero": "aventura" },
+    { "id": "23", "nome": "Um Lugar Silencioso", "genero": "aventura" },
+    { "id": "24", "nome": "The Hunt", "genero": "aventura" },
+    { "id": "25", "nome": "Cuidado Com Quem Chama", "genero": "aventura" },
+    {
+      "id": "26",
+      "nome": "Estou Pensando em Acabar com Tudo",
+      "genero": "aventura"
+    },
+    {
+      "id": "27",
+      "nome": "Uma Noite de Crime - A Fronteira",
+      "genero": "aventura"
+    },
+    { "id": "28", "nome": "A Freira", "genero": "aventura" },
+    { "id": "29", "nome": "O Ritual", "genero": "aventura" },
+    { "id": "30", "nome": "A Colina Escarlate", "genero": "aventura" },
+    { "id": "31", "nome": "A Lenda de Candyman", "genero": "aventura" },
+    { "id": "32", "nome": "Lights Out", "genero": "aventura" },
+    { "id": "33", "nome": "A Primeira Noite de Crime", "genero": "aventura" },
+    { "id": "34", "nome": "O Homem nas Trevas 2", "genero": "aventura" },
+    { "id": "35", "nome": "O Espelho", "genero": "aventura" },
+    { "id": "36", "nome": "Invocação do Mal", "genero": "aventura" },
+    { "id": "37", "nome": "Os Órfãos", "genero": "aventura" },
+    { "id": "38", "nome": "A Maldição da Chorona", "genero": "aventura" },
+    { "id": "39", "nome": "Vem Brincar", "genero": "aventura" },
+    { "id": "40", "nome": "Invocação do Mal 2", "genero": "aventura" },
+    {
+      "id": "41",
+      "nome": "Brightburn - Filho das Trevas",
+      "genero": "aventura"
+    },
+    { "id": "42", "nome": "Jogo Perigoso", "genero": "aventura" },
+    { "id": "43", "nome": "O Silêncio", "genero": "aventura" },
+    { "id": "44", "nome": "Veronica", "genero": "aventura" },
+    { "id": "45", "nome": "Rogai por Nós", "genero": "aventura" },
+    { "id": "46", "nome": "Carrie", "genero": "aventura" },
+    { "id": "47", "nome": "A Ilha da Fantasia", "genero": "aventura" },
+    { "id": "48", "nome": "Annabelle", "genero": "aventura" },
+    { "id": "49", "nome": "Cisne Negro", "genero": "aventura" },
+    { "id": "50", "nome": "A Escolha Perfeita 3", "genero": "comedia" },
+    {
+      "id": "51",
+      "nome": "O Poderoso Chefinho 2: Negócios da Família",
+      "genero": "comedia"
+    },
+    { "id": "52", "nome": "Oito Mulheres e um Segredo", "genero": "comedia" },
+    { "id": "53", "nome": "Deadpool 2", "genero": "comedia" },
+    { "id": "54", "nome": "Te Peguei!", "genero": "comedia" },
+    { "id": "55", "nome": "Dolittle", "genero": "comedia" },
+    { "id": "56", "nome": "Kingsman: Serviço Secreto", "genero": "comedia" },
+    { "id": "57", "nome": "Dia do Sim", "genero": "comedia" },
+    { "id": "58", "nome": "Heróis de Ressaca", "genero": "comedia" },
+    {
+      "id": "59",
+      "nome": "WiFi Ralph: Quebrando a Internet",
+      "genero": "comedia"
+    },
+    { "id": "60", "nome": "Minha Mãe É uma Peça 3", "genero": "comedia" },
+    { "id": "61", "nome": "As Trapaceiras", "genero": "comedia" },
+    { "id": "62", "nome": "Jumanji: Bem-vindo à Selva", "genero": "comedia" },
+    { "id": "63", "nome": "Vizinhos", "genero": "comedia" },
+    { "id": "64", "nome": "Din e o Dragão Genial", "genero": "comedia" },
+    { "id": "65", "nome": "Os Estagiários", "genero": "comedia" },
+    { "id": "66", "nome": "As Panteras", "genero": "comedia" },
+    {
+      "id": "67",
+      "nome": "Hotel Transilvânia: Transformonstrão",
+      "genero": "comedia"
+    },
+    { "id": "68", "nome": "Homem-Formiga e a Vespa", "genero": "comedia" },
+    { "id": "69", "nome": "Booksmart", "genero": "comedia" },
+    {
+      "id": "70",
+      "nome": "Pets – A Vida Secreta dos Bichos 2",
+      "genero": "comedia"
+    },
+    { "id": "71", "nome": "Tiras, Só que Não", "genero": "comedia" },
+    { "id": "72", "nome": "Bad Boys para Sempre", "genero": "comedia" },
+    { "id": "73", "nome": "Crush à Altura", "genero": "comedia" },
+    { "id": "74", "nome": "Convenção das Bruxas", "genero": "comedia" },
+    { "id": "75", "nome": "Família do Bagulho", "genero": "comedia" },
+    { "id": "76", "nome": "Sonic: O Filme", "genero": "comedia" },
+    { "id": "77", "nome": "Baywatch: S.O.S. Malibu", "genero": "comedia" },
+    { "id": "78", "nome": "Férias Frustradas", "genero": "comedia" },
+    { "id": "79", "nome": "Os Croods 2: Uma Nova Era", "genero": "comedia" },
+    { "id": "80", "nome": "Guardiões da Galáxia Vol. 2", "genero": "comedia" },
+    { "id": "81", "nome": "Finalmente 18", "genero": "comedia" },
+    { "id": "82", "nome": "A Família Addams", "genero": "comedia" },
+    { "id": "83", "nome": "É o Fim", "genero": "comedia" },
+    { "id": "84", "nome": "Dupla Explosiva", "genero": "comedia" },
+    { "id": "85", "nome": "Meninas Malvadas 2", "genero": "comedia" },
+    { "id": "86", "nome": "Festa no Céu", "genero": "comedia" },
+    { "id": "87", "nome": "Sócias em Guerra", "genero": "comedia" },
+    { "id": "88", "nome": "Shazam", "genero": "comedia" },
+    {
+      "id": "89",
+      "nome": "Borat: Fita de Cinema Seguinte",
+      "genero": "comedia"
+    },
+    { "id": "90", "nome": "Thor: Ragnarok", "genero": "comedia" },
+    { "id": "91", "nome": "Para Maiores", "genero": "comedia" },
+    { "id": "92", "nome": "Dora e a Cidade Perdida", "genero": "comedia" },
+    { "id": "93", "nome": "Central de Inteligência", "genero": "comedia" },
+    { "id": "94", "nome": "O Auto da Compadecida", "genero": "comedia" },
+    { "id": "95", "nome": "PéPequeno", "genero": "comedia" },
+    { "id": "96", "nome": "Professora Sem Classe", "genero": "comedia" },
+    { "id": "97", "nome": "Caça-Fantasmas", "genero": "comedia" },
+    { "id": "98", "nome": "Bad Moms", "genero": "comedia" },
+    { "id": "99", "nome": "Sausage Party", "genero": "comedia" },
+    {
+      "id": "102",
+      "nome": "Aves de Rapina: Arlequina e Sua Emancipação Fantabulosa",
+      "genero": "acao"
+    },
+    { "id": "104", "nome": "Capitão América: Guerra Civil", "genero": "acao" },
+    { "id": "106", "nome": "Maze Runner: Prova de Fogo", "genero": "acao" },
+    { "id": "108", "nome": "Deadpool 2", "genero": "acao" },
+    { "id": "110", "nome": "Aquaman", "genero": "acao" },
+    { "id": "112", "nome": "Kingsman: O Círculo Dourado", "genero": "acao" },
+    { "id": "114", "nome": "Viúva Negra", "genero": "acao" },
+    { "id": "116", "nome": "Homem de Ferro 3", "genero": "acao" },
+    {
+      "id": "118",
+      "nome": "O Espetacular Homem-Aranha 2 - A Ameaça de Electro",
+      "genero": "acao"
+    },
+    { "id": "120", "nome": "No Limite", "genero": "acao" },
+    { "id": "122", "nome": "Mulan", "genero": "acao" },
+    { "id": "124", "nome": "Quarteto Fantástico", "genero": "acao" },
+    { "id": "126", "nome": "Divergente", "genero": "acao" },
+    { "id": "128", "nome": "O Homem de Aço", "genero": "acao" },
+    { "id": "130", "nome": "Thor: O Mundo Sombrio", "genero": "acao" },
+    { "id": "132", "nome": "Em Ritmo de Fuga", "genero": "acao" },
+    { "id": "134", "nome": "Projeto Gemini", "genero": "acao" },
+    { "id": "136", "nome": "Homem-Aranha: Longe de Casa", "genero": "acao" },
+    {
+      "id": "138",
+      "nome": "Jogos Vorazes: A Esperança - O Final",
+      "genero": "acao"
+    },
+    { "id": "140", "nome": "Demolidor - O Homem sem Medo", "genero": "acao" },
+    { "id": "142", "nome": "The Old Guard", "genero": "acao" },
+    { "id": "144", "nome": "Mulher-Maravilha", "genero": "acao" },
+    {
+      "id": "146",
+      "nome": "John Wick: Um Novo Dia Para Matar",
+      "genero": "acao"
+    },
+    {
+      "id": "148",
+      "nome": "Velozes & Furiosos: Hobbs & Shaw",
+      "genero": "acao"
+    },
+    { "id": "150", "nome": "As Panteras", "genero": "acao" },
+    { "id": "152", "nome": "Transformers - O Filme", "genero": "acao" },
+    { "id": "154", "nome": "Armas em Jogo", "genero": "acao" },
+    { "id": "156", "nome": "Dragonball Evolution", "genero": "acao" },
+    { "id": "158", "nome": "Capitã Marvel", "genero": "acao" },
+    { "id": "160", "nome": "Shazam", "genero": "acao" },
+    { "id": "162", "nome": "O Assassino: O Primeiro Alvo", "genero": "acao" },
+    { "id": "164", "nome": "Bloodshot", "genero": "acao" },
+    { "id": "166", "nome": "Guardiões da Galáxia Vol. 2", "genero": "acao" },
+    { "id": "168", "nome": "Pantera Negra", "genero": "acao" },
+    {
+      "id": "170",
+      "nome": "MIB: Homens de Preto Internacional",
+      "genero": "acao"
+    },
+    { "id": "172", "nome": "Resgate", "genero": "acao" },
+    { "id": "174", "nome": "Os Guardiões", "genero": "acao" },
+    { "id": "176", "nome": "Venom: Tempo de Carnificina", "genero": "acao" },
+    {
+      "id": "178",
+      "nome": "Ender's Game - O Jogo do Exterminador",
+      "genero": "acao"
+    },
+    { "id": "179", "nome": "Interestelar", "genero": "ficcao" },
+    { "id": "180", "nome": "O Predestinado", "genero": "ficcao" },
+    {
+      "id": "181",
+      "nome": "Jogos Vorazes: A Esperança - O Final",
+      "genero": "ficcao"
+    },
+    { "id": "182", "nome": "Divergente", "genero": "ficcao" },
+    {
+      "id": "183",
+      "nome": "John Carter - Entre Dois Mundos",
+      "genero": "ficcao"
+    },
+    { "id": "184", "nome": "A Origem", "genero": "ficcao" },
+    { "id": "185", "nome": "Expresso do Amanhã", "genero": "ficcao" },
+    { "id": "186", "nome": "O Destino de Júpiter", "genero": "ficcao" },
+    { "id": "187", "nome": "Transcendence: A Revolução", "genero": "ficcao" },
+    {
+      "id": "188",
+      "nome": "Valerian e a Cidade dos Mil Planetas",
+      "genero": "ficcao"
+    },
+    { "id": "189", "nome": "Onde Está Segunda?", "genero": "ficcao" },
+    {
+      "id": "190",
+      "nome": "Tomorrowland - Um Lugar Onde Nada é Impossível",
+      "genero": "ficcao"
+    },
+    { "id": "191", "nome": "Os Agentes do Destino", "genero": "ficcao" },
+    { "id": "192", "nome": "Mentes Sombrias", "genero": "ficcao" },
+    { "id": "193", "nome": "Chappie", "genero": "ficcao" },
+    { "id": "194", "nome": "Alien: Covenant", "genero": "ficcao" },
+    { "id": "195", "nome": "Kin", "genero": "ficcao" },
+    { "id": "196", "nome": "Tempestade: Planeta em Fúria", "genero": "ficcao" },
+    { "id": "197", "nome": "Jogador Nº 1", "genero": "ficcao" },
+    {
+      "id": "198",
+      "nome": "A Série Divergente: Insurgente",
+      "genero": "ficcao"
+    },
+    { "id": "199", "nome": "Super 8", "genero": "ficcao" },
+    {
+      "id": "200",
+      "nome": "Ex_Machina: Instinto Artificial",
+      "genero": "ficcao"
+    },
+    { "id": "201", "nome": "Total Recall", "genero": "ficcao" },
+    { "id": "202", "nome": "No Limite do Amanhã", "genero": "ficcao" },
+    { "id": "203", "nome": "Círculo de Fogo: A Revolta", "genero": "ficcao" },
+    { "id": "204", "nome": "Os Guardiões", "genero": "ficcao" },
+    {
+      "id": "205",
+      "nome": "Planeta dos Macacos: A Origem",
+      "genero": "ficcao"
+    },
+    {
+      "id": "206",
+      "nome": "Jurassic World: Reino Ameaçado",
+      "genero": "ficcao"
+    },
+    {
+      "id": "207",
+      "nome": "Transformers: O Último Cavaleiro",
+      "genero": "ficcao"
+    },
+    { "id": "208", "nome": "ARQ", "genero": "ficcao" },
+    { "id": "209", "nome": "A.X.L.", "genero": "ficcao" },
+    { "id": "210", "nome": "O Preço do Amanhã", "genero": "ficcao" },
+    { "id": "211", "nome": "Extinção", "genero": "ficcao" },
+    { "id": "212", "nome": "Attraction", "genero": "ficcao" },
+    { "id": "213", "nome": "Io", "genero": "ficcao" },
+    { "id": "214", "nome": "Anon", "genero": "ficcao" },
+    {
+      "id": "215",
+      "nome": "Han Solo: Uma História Star Wars",
+      "genero": "ficcao"
+    },
+    {
+      "id": "216",
+      "nome": "Transformers: A Era da Extinção",
+      "genero": "ficcao"
+    },
+    { "id": "217", "nome": "Homem de Ferro 3", "genero": "ficcao" },
+    { "id": "218", "nome": "O Paradoxo Cloverfield", "genero": "ficcao" },
+    { "id": "219", "nome": "A Chegada", "genero": "ficcao" },
+    {
+      "id": "220",
+      "nome": "Transformers: O Lado Oculto da Lua",
+      "genero": "ficcao"
+    },
+    { "id": "221", "nome": "Rogai por Nós", "genero": "terror" },
+    { "id": "222", "nome": "Escape Room 2: Tensão Máxima", "genero": "terror" },
+    {
+      "id": "223",
+      "nome": "Um Lugar Silencioso - Parte II",
+      "genero": "terror"
+    },
+    { "id": "224", "nome": "A Lenda de Candyman", "genero": "terror" },
+    {
+      "id": "225",
+      "nome": "Invocação do Mal 3: A Ordem do Demônio",
+      "genero": "terror"
+    },
+    { "id": "226", "nome": "A Iha da Fantasia", "genero": "terror" },
+    { "id": "227", "nome": "#Alive", "genero": "terror" },
+    {
+      "id": "228",
+      "nome": "A Casa doMedo - Incidente em Ghostland",
+      "genero": "terror"
+    },
+    { "id": "229", "nome": "Nós", "genero": "terror" },
+    { "id": "230", "nome": "O Homem Invisível", "genero": "terror" },
+    { "id": "231", "nome": "Maligno", "genero": "terror" },
+    { "id": "232", "nome": "Casamento Sangrento", "genero": "terror" },
+    { "id": "233", "nome": "O Silêncio", "genero": "terror" },
+    { "id": "234", "nome": "You Should Have Left", "genero": "terror" },
+    { "id": "235", "nome": "Doutor Sono", "genero": "terror" },
+    { "id": "236", "nome": "Tempo", "genero": "terror" },
+    { "id": "237", "nome": "A Hora da Sua Morte", "genero": "terror" },
+    { "id": "238", "nome": "Maligno", "genero": "terror" },
+    { "id": "239", "nome": "Hereditário", "genero": "terror" },
+    {
+      "id": "240",
+      "nome": "Espiral: O Legado de Jogos Mortais",
+      "genero": "terror"
+    },
+    { "id": "241", "nome": "O Homem nas Trevas 2", "genero": "terror" },
+    { "id": "242", "nome": "Os Novos Mutantes", "genero": "terror" },
+    {
+      "id": "243",
+      "nome": "Histórias Assustadoras para Contar no Escuro",
+      "genero": "terror"
+    },
+    { "id": "244", "nome": "Cadáver", "genero": "terror" },
+    {
+      "id": "245",
+      "nome": "Uma Noite de Crime - A Fronteira",
+      "genero": "terror"
+    },
+    {
+      "id": "246",
+      "nome": "Halloween Kills: O Terror Continua",
+      "genero": "terror"
+    },
+    {
+      "id": "247",
+      "nome": "Annabelle 3: De Volta Para Casa",
+      "genero": "terror"
+    },
+    { "id": "248", "nome": "Escape Room", "genero": "terror" },
+    { "id": "249", "nome": "Ma", "genero": "terror" },
+    {
+      "id": "250",
+      "nome": "Pânico na Floresta: A Fundação",
+      "genero": "terror"
+    },
+    { "id": "251", "nome": "Predadores Assassinos", "genero": "guerra" },
+    { "id": "252", "nome": "Greyhound", "genero": "guerra" },
+    { "id": "253", "nome": "The Outpost", "genero": "guerra" },
+    { "id": "254", "nome": "1917", "genero": "guerra" },
+    { "id": "255", "nome": "A Outra Face da Guerra", "genero": "guerra" },
+    { "id": "256", "nome": "Dunkirk", "genero": "guerra" },
+    {
+      "id": "257",
+      "nome": "AK-47 - A Arma que Mudou o Mundo",
+      "genero": "guerra"
+    },
+    { "id": "258", "nome": "Sem Remorso", "genero": "guerra" },
+    { "id": "259", "nome": "Linhas Inimigas", "genero": "guerra" },
+    { "id": "260", "nome": "Uma Sombra na Nuvem", "genero": "guerra" },
+    { "id": "261", "nome": "Midway - Batalha em Alto Mar", "genero": "guerra" },
+    { "id": "262", "nome": "They Shall Not Grow Old", "genero": "guerra" },
+    { "id": "263", "nome": "Jojo Rabbit", "genero": "guerra" },
+    { "id": "264", "nome": "Até o Último Homem", "genero": "guerra" },
+    { "id": "265", "nome": "12 Heróis", "genero": "guerra" },
+    { "id": "266", "nome": "Homens de Coragem", "genero": "guerra" },
+    { "id": "267", "nome": "Sand Castle", "genero": "guerra" },
+    { "id": "268", "nome": "Mosul", "genero": "guerra" },
+    { "id": "269", "nome": "Outlaw King", "genero": "guerra" },
+    { "id": "270", "nome": "Thank You for Your Service", "genero": "guerra" },
+    { "id": "271", "nome": "Journey's End", "genero": "guerra" },
+    { "id": "272", "nome": "Alerta Lobo", "genero": "guerra" },
+    { "id": "273", "nome": "O Pássaro Pintado", "genero": "guerra" },
+    { "id": "274", "nome": "O Fotógrafo de Mauthausen", "genero": "guerra" },
+    { "id": "275", "nome": "O Destino de Uma Nação", "genero": "guerra" },
+    { "id": "276", "nome": "Operação Overlord", "genero": "guerra" },
+    { "id": "277", "nome": "Corações de Ferro", "genero": "guerra" },
+    { "id": "278", "nome": "O Furioso", "genero": "guerra" },
+    { "id": "279", "nome": "KV1 - Almas de Ferro", "genero": "guerra" },
+    { "id": "280", "nome": "Allied", "genero": "guerra" },
+    {
+      "id": "281",
+      "nome": "13 Horas: Os Soldados Secretos de Benghazi",
+      "genero": "guerra"
+    },
+    { "id": "282", "nome": "Invencível", "genero": "guerra" },
+    { "id": "283", "nome": "O Capitão", "genero": "guerra" },
+    { "id": "284", "nome": "Mine", "genero": "guerra" },
+    { "id": "285", "nome": "O Rei da Escócia", "genero": "guerra" },
+    { "id": "286", "nome": "War Machine", "genero": "guerra" },
+    { "id": "287", "nome": "Sniper Americano", "genero": "guerra" },
+    { "id": "288", "nome": "O Banqueiro da Resistência", "genero": "guerra" },
+    { "id": "289", "nome": "The Free State of Jones", "genero": "guerra" },
+    { "id": "290", "nome": "Where Hands Touch", "genero": "guerra" },
+    { "id": "291", "nome": "Sniper: Ghost Shooter", "genero": "guerra" },
+    { "id": "292", "nome": "Vikings", "genero": "guerra" },
+    { "id": "293", "nome": "The Siege of Jadotville", "genero": "guerra" },
+    { "id": "294", "nome": "O Grande Herói", "genero": "guerra" },
+    { "id": "295", "nome": "Batalha de Sevastopol", "genero": "guerra" },
+    { "id": "296", "nome": "Stalingrad", "genero": "guerra" },
+    { "id": "297", "nome": "Battleship Island", "genero": "guerra" },
+    { "id": "298", "nome": "O Esranho que Nós Amamos", "genero": "guerra" },
+    { "id": "299", "nome": "Deus da Guerra", "genero": "guerra" },
+    { "id": "300", "nome": "Terra de Minas", "genero": "guerra" },
+    { "id": "301", "nome": "Beasts of No Nation", "genero": "guerra" }
+  ],
+  "comidas": [
+    {
+      "id": "1",
+      "nome": "Sanduíche com ovo",
+      "tipo": "salgado"
+    },
+    {
+      "id": "2",
+      "nome": "Pão com presunto e mussarela",
+      "tipo": "salgado"
+    },
+    {
+      "id": "3",
+      "nome": "Pão com manteiga",
+      "tipo": "salgado"
+    },
+    {
+      "id": "4",
+      "nome": "Chips",
+      "tipo": "salgado"
+    },
+    {
+      "id": "5",
+      "nome": "Pipoca",
+      "tipo": "salgado"
+    },
+    {
+      "id": "6",
+      "nome": "Pão de queijo",
+      "tipo": "salgado"
+    },
+    {
+      "id": "7",
+      "nome": "Cachorro quente",
+      "tipo": "salgado"
+    },
+    {
+      "id": "8",
+      "nome": "Hamburguer",
+      "tipo": "salgado"
+    },
+    {
+      "id": "9",
+      "nome": "Macarrão com salsicha",
+      "tipo": "salgado"
+    },
+    {
+      "id": "10",
+      "nome": "Sanduíche natural de frango",
+      "tipo": "salgado"
+    },
+    {
+      "id": "11",
+      "nome": "Salgadinho",
+      "tipo": "salgado"
+    },
+    {
+      "id": "12",
+      "nome": "Pizza",
+      "tipo": "salgado"
+    },
+    {
+      "id": "13",
+      "nome": "Bolo",
+      "tipo": "doce"
+    },
+    {
+      "id": "14",
+      "nome": "Chocolate",
+      "tipo": "doce"
+    },
+    {
+      "id": "15",
+      "nome": "Bala",
+      "tipo": "doce"
+    },
+    {
+      "id": "16",
+      "nome": "Brigadeiro",
+      "tipo": "doce"
+    },
+    {
+      "id": "17",
+      "nome": "Mousse",
+      "tipo": "doce"
+    }
+  ],
+
+  "bebidas": [
+    {
+      "id": "1",
+      "nome": "Água de coco",
+      "tipo": "frio"
+    },
+    {
+      "id": "2",
+      "nome": "Achocolatado",
+      "tipo": "quente"
+    },
+    {
+      "id": "3",
+      "nome": "Refresco em Pó",
+      "tipo": "frio"
+    },
+    {
+      "id": "4",
+      "nome": "MilkShake",
+      "tipo": "frio"
+    },
+    {
+      "id": "5",
+      "nome": "Suco de Frutas",
+      "tipo": "frio"
+    },
+    {
+      "id": "6",
+      "nome": "Refrigerante",
+      "tipo": "frio"
+    },
+    {
+      "id": "7",
+      "nome": "Café",
+      "tipo": "quente"
+    }
+  ]
+}
