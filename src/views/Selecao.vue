@@ -135,9 +135,10 @@ created(){
 .selecao{
   background: white;
   border-radius: 500px;
-  width: 500px;
+  width: 400px;
   height: 400px;
   align-items: center;
+  padding: 60px;
   display: grid;
   box-shadow: 0px 3px 4px rgba(0, 0, 0, 0.1), 0px 4px 10px rgba(0, 0, 0, 0.2);
 }
