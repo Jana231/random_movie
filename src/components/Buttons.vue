@@ -3,12 +3,12 @@
 
   <router-link to="/escolhido">
   <div class="random">
-    <button @click="choiceMovie" class="btn btn-random"> Choice Movie</button>
+    <button @click="choiceMovie" class="btn btn-random"> Filme Aleátorio</button>
   </div>
   </router-link>
     <router-link to="/selecao">
       <div class="selecao">
-        <button class="btn btn-selecao"> Select Movie</button>
+        <button class="btn btn-selecao"> Selecione o Filme</button>
       </div>
   </router-link>
 </section>

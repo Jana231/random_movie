@@ -159,6 +159,7 @@ created(){
 }
 .mensagemAlerta {
   background: #ffffff;
+  color: #b52325;
   padding: 20px 40px;
   display: inline-block;
   border: 2px solid  red;
